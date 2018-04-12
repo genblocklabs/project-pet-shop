@@ -2,13 +2,13 @@
 
 Inspired by the Truffle-Framework "Ethereum Pet Shop" template: We present a blockchain based gaming application created for use with social media platform APIs and Webhooks (dApp v1.0 is configures for use with Facebook's Graph API version v2.12 and current SDKs) 
 
-Current alpha build enables users to purchase their friends/followers via [adopt] function and currently engages the users web3 instance, or metamask in order to interract with Ethereum nodes. (Social network versions do not utilize metamask's web3 injection in preference for integration with each platforms API and webhooks)  
+Current build is a working-alpha and enables users to purchase their friends/followers via <u>[adopt]</u> function and currently engages the users web3 instance, or metamask in order to interract with Ethereum nodes. (Social network versions do not utilize metamask's web3 injection in preference for integration with each platforms API and webhooks)  
 
-Contract provisions allow for purchasing users to create unique attributes to assign [nameId] (modifies nickname rights) and the right to dictate a jpeg of their user-defined spirit animal then share, collect or sell their friends via smart contracts on the Ethereum 2.0 blockchain.
+Contract provisions allow for purchasing users to create unique attributes to assign <u>[nameId]</u> (modifies nickname rights) and the right to dictate a jpeg of their user-defined spirit animal then share, collect or sell their friends via smart contracts on the Ethereum 2.0 blockchain.
 
 <b>Features:
 
-   	Utilizes the Ethereum (2.0) blockchain, [ERC-875] [ERC-721] & [ERC-223] tokens in conjunction with platform permissions to assign smart-contract identities to (connected) users.
+   	Utilizes the Ethereum (2.0) blockchain, <u>[ERC-875]</u> <u>[ERC-721]</u> & <u>[ERC-223]</u> tokens in conjunction with platform permissions to assign smart-contract identities to (connected) users.
 
    	Facebook platform-side interface is "User Friendly" & avaiable to any user who wishes to participate. It requires no knowledge of coding however, contracts conform to Ethereum 2.0's native language, Solidity & are formatted as pragma solidity ^0.4.17
 
