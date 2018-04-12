@@ -6,7 +6,7 @@ Current build is a working-alpha and enables users to purchase their friends/fol
 
 Contract provisions allow for purchasing users to create unique attributes to assign <u>[nameId]</u> (modifies nickname rights) and the right to dictate a jpeg of their user-defined spirit animal then share, collect or sell their friends via smart contracts on the Ethereum 2.0 blockchain.
 
-<b><font size="8">Features:</font>
+<b><font size="14">Features:</font>
 
    	Utilizes the Ethereum (2.0) blockchain, <u>[ERC-875]</u> <u>[ERC-721]</u> & <u>[ERC-223]</u> tokens in conjunction with platform permissions to assign smart-contract identities to (connected) users.
 
