@@ -8,7 +8,7 @@ Contract provisions allow for purchasing users to create unique attributes to as
 
 <b><font size="14">Features:</font>
 
-   	Utilizes the Ethereum (2.0) blockchain, <u>[ERC-875]</u> <u>[ERC-721]</u> & <u>[ERC-223]</u> tokens in conjunction with platform permissions to assign smart-contract identities to (connected) social network users.
+   	Utilizes the Ethereum (2.0) blockchain [ERC-721] and two other non [ERC-20] protocol tokens in conjunction with platform permissions to assign smart-contract identities to (connected) social network users.
 
    	Facebook platform-side interface is "User Friendly" & avaiable to any user who wishes to participate. It requires no knowledge of coding however, contracts conform to Ethereum 2.0's native language, Solidity & are formatted as pragma solidity ^0.4.17
 
